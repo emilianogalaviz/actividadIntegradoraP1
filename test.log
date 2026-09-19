@@ -1,0 +1,15 @@
+INFO     root:test_converter.py:130 TC09 RF01, RF07, RNF01
+INFO     root:test_converter.py:133 The conversion result is: Celsius a Fahrenheit: 100.00 °C = 212.00 °F
+INFO     root:test_converter.py:134 Test case finished
+INFO     root:test_converter.py:139 TC10 RF07, RNF03
+INFO     root:test_converter.py:142 The conversion result is: Error: el valor no puede ser negativo para esta conversión.
+INFO     root:test_converter.py:143 Test case finished
+INFO     root:test_converter.py:148 TC11 RF07, RNF03
+INFO     root:test_converter.py:151 The conversion result is: Error: el valor ingresado no es un número válido.
+INFO     root:test_converter.py:152 Test case finished
+INFO     root:test_converter.py:157 TC12 RF08, RNF03
+INFO     root:test_converter.py:160 The conversion result is: Error: opción no válida. Elige un número del 1 al 6.
+INFO     root:test_converter.py:161 Test case finished
+INFO     root:test_converter.py:166 TC13 RF05, RNF02
+INFO     root:test_converter.py:170 The conversion result is: Pesos a Dólares: 175.00 MXN = 10.00 USD
+INFO     root:test_converter.py:171 Test case finished
